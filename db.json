@@ -1,0 +1,82 @@
+{
+  "users": [
+    {
+      "name": "Prajyot Dhat",
+      "email": "jane.smith@example.com",
+      "phone": "+1987654321",
+      "address": "At-Hadapsar Tal-Pune Dist-Pune",
+      "id": "2"
+    },
+    {
+      "name": "Shubham Jodave",
+      "email": "michael.johnson@example.com",
+      "phone": "+1122334455",
+      "address": "At-Satara",
+      "id": "3"
+    },
+    {
+      "name": "Emily Brown",
+      "email": "emily.brown@example.com",
+      "phone": "+9988776655",
+      "address": "At-Khardai Pune",
+      "id": "4"
+    },
+    {
+      "id": "7",
+      "name": "Daniel Martinez",
+      "email": "daniel.martinez@example.com",
+      "address": "999 Birch St, City, Country",
+      "phone": "+7788990011",
+      "profile_image": "https://via.placeholder.com/150"
+    },
+    {
+      "id": "1b92",
+      "name": "Dnyaneshwar",
+      "email": "test@gmail.com",
+      "phone": "4567893210",
+      "address": "At-Pandharpur"
+    },
+    {
+      "id": "9e25",
+      "name": "Daniel Martinez",
+      "email": "daniel.martinez@example.com",
+      "phone": "+7788990011",
+      "address": "At-Nashik "
+    },
+    {
+      "id": "17ab",
+      "name": "John Doe",
+      "email": "john.doe@example.com",
+      "phone": "+1234567890",
+      "address": "At-Kopargaon Tal-kopargaon Dist-Ahmednagar"
+    },
+    {
+      "id": "6bf8",
+      "name": "John Doe",
+      "email": "john.doe@example.com",
+      "phone": "+1234567890",
+      "address": "At-Shirdi Tal-Rahata Dist-Ahmednagar"
+    },
+    {
+      "id": "48a2",
+      "name": "John Doe",
+      "email": "john.doe@example.com",
+      "phone": "+1234567890",
+      "address": "At-Shirdi Tal-Rahata Dist-Ahmednagar"
+    },
+    {
+      "id": "ad5b",
+      "name": "John Doe",
+      "email": "john.doe@example.com",
+      "phone": "+1234567890",
+      "address": "At-Shirdi Tal-Rahata Dist-Ahmednagar"
+    },
+    {
+      "id": "ef97",
+      "name": "John Doe",
+      "email": "john.doe@example.com",
+      "phone": "+1234567890",
+      "address": "At-Shirdi Tal-Rahata Dist-Ahmednagar"
+    }
+  ]
+}
